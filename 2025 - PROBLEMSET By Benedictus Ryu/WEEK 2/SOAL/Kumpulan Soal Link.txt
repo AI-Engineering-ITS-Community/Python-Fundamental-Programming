@@ -1,0 +1,13 @@
+Soal Katamari:
+https://drive.google.com/file/d/1tWcRyj27iTVrYcVpOkUBBvoKlWW9qe7q/view?usp=drive_link
+
+Soal circle:
+https://drive.google.com/file/d/1yhUaLuud9vO75M7P-u5geNU4WWgrKuqa/view?usp=drive_link
+
+PERULANGAN (medium - hard)
+https://codeforces.com/problemset/problem/4/A - Watermelon
+https://codeforces.com/problemset/problem/231/A - Team
+https://codeforces.com/problemset/problem/71/A - Way Too Long Words
+https://www.spoj.com/problems/TEST/ - Life, the Universe, and Everything
+https://www.spoj.com/problems/SUMTRIAN/ - Sums in a Triangle (tutorial)
+https://atcoder.jp/contests/abc086/tasks/abc086_a - Product
